@@ -1,0 +1,33 @@
+# Vivado generated project directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/*/ip/
+*.gen/
+
+# Log and journal files
+*.log
+*.jou
+
+# Vivado backup files
+*.backup.log
+*.str
+
+# Bitstream and implementation outputs (regenerate with synth/impl)
+*.bit
+*.ltx
+*.mcs
+
+# Temporary and lock files
+.Xil/
+*.lck
+webtalk*.xml
+webtalk_*.jou
+webtalk_*.log
+hdl.log
+
+# OS clutter
+.DS_Store
+Thumbs.db
